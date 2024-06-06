@@ -1,2 +1,2 @@
 # super-guacamole
-Author-Shiva
+Author-K Shiva
